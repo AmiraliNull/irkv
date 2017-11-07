@@ -1,6 +1,8 @@
 ## IRKV
 This is a simple key/value store databse in ruby (very very simple!).
 
+[![Gem Version](https://badge.fury.io/rb/irkv.svg)](https://badge.fury.io/rb/irkv)
+
 ## Installing
 ```bash
 $ gem install irkv
