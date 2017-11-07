@@ -18,4 +18,10 @@ $ gem install irkv
 
 # Get a value from key
 > db.get('key')
+
+# Delete a key
+> db.delete('key')
+
+# Update a value
+> db.update('key', 'new value')
 ```
