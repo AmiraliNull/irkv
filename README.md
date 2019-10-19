@@ -3,6 +3,7 @@ This is a simple key/value store databse in ruby (very very simple!).
 
 ![Gem](https://img.shields.io/gem/v/irkv?style=flat-square)
 ![Gem](https://img.shields.io/gem/dt/irkv?style=flat-square)
+![GitHub](https://img.shields.io/github/license/RealAmirali/irkv?style=flat-square)
 
 ## Installing
 ```bash
